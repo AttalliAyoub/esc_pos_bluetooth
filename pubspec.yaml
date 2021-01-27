@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rxdart:
+  rxdart: ^0.25.0
   esc_pos_utils: ^0.3.6
   # esc_pos_utils:
     # path: ../esc_pos_utils
